@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "enter the first name:" 
+n1= read
+
+echo "enter the second name:" 
+n2=read
+
+echo "first name:"
+ n1
+echo "second name:"
+ n2
